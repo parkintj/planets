@@ -3,4 +3,4 @@ This is a file detailing a lander mission to Venus.
 Experiment:
 We propose to develop a instrument that will survive the harsh conditions on the surface of Venus and collect surface samples to study the soil and atmosphere.
 
-We will have a spectrometer on board.
+We will have a camera and spectrometer on board.
